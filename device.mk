@@ -60,3 +60,4 @@ PRODUCT_PACKAGES += \
 # Inherit from the proprietary version
 $(call inherit-product, vendor/xiaomi/xmsirius/xmsirius-vendor.mk)
 
+$(call inherit-product, vendor/lindroid/lindroid.mk)
